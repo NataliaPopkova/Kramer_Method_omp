@@ -14,5 +14,3 @@ QMAKE_LFLAGS += -fopenmp -lgomp
 QMAKE_CXXFLAGS += -fopenmp
 LIBS += -fopenmp
 
-#LIBS += "D:\matclpro" -lrtf
-#INCLUDEPATH += libs/matrix.h/include
